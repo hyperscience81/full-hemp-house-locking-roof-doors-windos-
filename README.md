@@ -1,3 +1,169 @@
+Seamless Hemp House — Full Design Development, Metal Roof Saddle-Locking, Off-Grid HVAC, Energy Storage & Infrastructure Blueprint (V5)
+
+
+A complete, self-contained open-source blueprint uniting Hemp OSB, HempWool insulation, high-pressure pressed aluminum-sandwiched hemp trusses, saddle-indexed metal roof locking mechanisms, locking saddles, recessed hemp-stud twist-key locks, press-lock-and-seal openings, Hemp Nano-Carbon Crete, pre-installed nano-copper-lined PEX, off-grid low-static-pressure HVAC with Air Genie airflow dampers, scalable off-grid energy generation & multi-tier storage (LiFePO4, H2/PEM, V2H, supercapacitor/carbon-crete), an off-grid self-sustainable septic & greywater reclamation architecture, a closed-loop greenhouse & 4-zone garden irrigation network, 1/16 in field tolerances, and General Contractor (GC) accountability across individual, residential, and commercial scales.
+
+
+1. License & Open-Source Terms
+This blueprint, bill of materials, manufacturing specification, saddle-to-metal-roof hardware tolerance schedule, off-grid HVAC/energy/storage scaling architecture, septic/greenhouse/water infrastructure design, and parametric scaling scripts are released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Share: Copy and redistribute the material in any medium or format for commercial, residential, or individual/owner-builder use.
+Adapt: Remix, transform, and build upon the material for any purpose.
+Attribution: Give appropriate credit, provide a link to the license, and indicate if changes were made.
+ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Engineering, Health, Environmental & Code Notice: Structural spans, truss engineering, uplift/shear saddle capacities, metal roof clip/lock wind-uplift ratings, thermal expansion allowance, hemp nano-carbon-crete slab/base engineering, HVAC Manual J/D/S load and duct calculations, electrical/battery/inverter NEC compliance, hydrogen/fuel-cell safety and ventilation rules, potable/greywater/blackwater septic treatment and soil dispersal rules, greenhouse structural/glazing loads, particulate/worker safety controls, fire/egress codes, and regional wind, snow, seismic, or setback requirements must be verified with a licensed engineer and local Authority Having Jurisdiction (AHJ) prior to fabrication or construction.
+
+
+2. Structural Envelope, Modular Grids & 1/16 in Precision Schedule
+Baseline & Larger-Scale Footprints: Starts from a 24 ft × 44 ft (1,056 sq ft) residential baseline and scales linearly in 2 ft (24 in), 4 ft (48 in), and 8 ft (96 in) increments—from 8 ft × 8 ft / 8 ft × 24 ft individual micro-modules past 100 ft up to 32 ft × 64 ft, 44 ft × 100 ft, 48 ft × 104 ft, and 64 ft × 120 ft commercial footprints.
+Modular Grids & Roof Datum: Aligned to 16 in O.C. (256/16 in) and 24 in O.C. (384/16 in) framing/saddle stations, 4 ft (48 in / 768/16 in) coincidence checkpoints and primary truss spacing, and a 2 ft (24 in / 384/16 in) walls-to-peak datum.
+Hemp OSB (4'×8' and 6'×12'): Grade S1 (7/16 in / 7/16 in exterior wall and roof sheathing), Grade S2 (3/4 in / 12/16 in T&G subfloor), and Grade I1 (1/2 in / 8/16 in smooth interior board), pressed with a 3-stage degas cycle.
+Insulation & Composite Trusses: HempWool R-20 batts (walls/floor) and HempWool R-13 batts (double-layer ceiling), paired with high-pressure pressed aluminum-sandwiched hemp trusses locked into mechanical saddles.
+Locks, Openings & Vapor-Open Envelope: Recessed hemp-stud twist-key locks (7/8 in / 14/16 in recess in 1 1/2 in / 24/16 in studs; 3/4 in / 12/16 in throw; 1/8 in / 2/16 in bottom-out clearance; ±1/16 in alignment tolerance), press-lock-and-seal doors and windows, and targeted exterior polyurethane sealant at expansion joints (1/8 in / 2/16 in), saddles, and opening perimeters over a vapor-open rainscreen wall assembly.
+
+
+3. Metal Roof Locking Mechanisms Indexed Precisely to Saddles (1/16 in Precision)
+Every metal roof panel lock, standing-seam/interlock clip, and eave/ridge tie-down registers directly to the truss saddle centerline datum (48 in / 768/16 in primary truss/saddle spacing, with 24 in / 384/16 in intermediate and 16 in / 256/16 in sub-grid stations) through the 7/16 in (7/16 in) Grade S1 Hemp OSB roof deck.
+A. Saddle-to-Metal-Roof Dimensional & Tolerance Schedule
+Component / Datum
+Standard Measure
+Exact 1/16 in Value
+Alignment & Mechanical Engagement Rule
+Primary Truss & Saddle Grid (4 ft)
+48 in O.C.
+768/16 in O.C.
+Master centerline datum (0", 48", 96", 144"...) shared by saddles, trusses & metal roof lock stations
+Intermediate Saddle / Purlin Grid
+24 in O.C.
+384/16 in O.C.
+Mid-bay roof lock / clip station (2 spaces per 48 in saddle bay)
+Sub-Grid Saddle Index
+16 in O.C.
+256/16 in O.C.
+Panel rib / fastener index (3 spaces per 48 in saddle bay)
+Walls-to-Peak Datum (2 ft)
+24 in
+384/16 in
+Holds uniform slope geometry (±1/16 in) so roof locks register cleanly from eave saddle to peak
+Grade S1 Hemp OSB Roof Deck
+7/16 in
+7/16 in
+Structural substrate between saddle/truss top chord and metal roof lock base
+Roof Sheathing Expansion Gap
+1/8 in
+2/16 in
+Gap between 6'×12' Hemp OSB roof panels; sealed with exterior polyurethane prior to metal roof lock-down
+Saddle / Roof Lock Recess Pocket
+7/8 in
+14/16 in
+Pocket depth (±1/16 in) indexed to saddle/chord receiver
+Roof Lock Bolt / Latch Throw
+3/4 in – 7/8 in
+12/16 in – 14/16 in
+Positive mechanical engagement into saddle / upper truss lock collar
+Pocket Bottom-Out Clearance
+1/8 in – 3/8 in
+2/16 in – 6/16 in
+Prevents binding and accommodates seasonal thermal expansion
+Compression Cam Pull
+1/16 in – 3/16 in
+1/16 in – 3/16 in
+Draws metal roof lock flange/gasket uniformly onto the saddle datum
+GC Centerline & Flush Tolerance
+±1/16 in
+±1/16 in
+Maximum deviation between saddle centerline, deck strike collar, and metal roof lock receiver
+
+B. Saddle-Indexed Station Counts by Footprint Length
+44 ft Length (528 in / 8448/16 in): 12 primary 48 in (768/16 in) saddle stations (24 eave saddle-lock pairs at 0", 48", 96", 144", 192", 240", 288", 336", 384", 432", 480", 528").
+100 ft Length (1,200 in / 19200/16 in): 26 primary 48 in (768/16 in) saddle stations (52 eave saddle-lock pairs every 48 in from 0" to 1,200").
+104 ft Length (1,248 in / 19968/16 in): 27 primary 48 in (768/16 in) saddle stations (54 eave saddle-lock pairs every 48 in from 0" to 1,248").
+
+
+4. Scalable Off-Grid HVAC, Energy Generation & Multi-Tier Storage
+The mechanical and electrical backbone scales modularly across individual, residential, and commercial footprints while anchoring trunk ducts, chases, and energy hubs to the 48 in (768/16 in) truss/saddle bays.
+A. Off-Grid Low-Static-Pressure HVAC & Air Genie Airflow Architecture
+Air Genie Static-Pressure Reduction: Incorporates Air Genie main and feeder ductwork airflow dampers across airflow velocities from 2.0 m/s to 11.0 m/s, reducing static pressure drop by 73.3% so ECM blower fans draw substantially less off-grid watt-hours per CFM.
+High-Efficiency Heat Pump & Hydronic/Slab Coupling: Pairs variable-speed inverter heat pumps (sized to the R-20 wall/floor and R-26 ceiling HempWool envelope) with hydronic radiant loops routed through pre-installed nano-copper-lined PEX in the Hemp Nano-Carbon Crete slab and greenhouse thermal exchange.
+Balanced ERV/HRV Ventilation: Dedicated balanced energy/heat recovery ventilation keeps indoor air quality high inside the airtight, polyurethane-sealed, vapor-open envelope without throwing away sensible or latent conditioning energy.
+Modular Duct & Trunk Routing (1/16 in Precision): Trunk lines run through open webs of the 48 in (768/16 in) aluminum-sandwiched hemp trusses with branch takeoffs aligned to 16 in (256/16 in) and 24 in (384/16 in) bays (±1/16 in collar alignment).
+B. Off-Grid Energy Generation & Multi-Tier Storage Architecture
+Primary Generation (Solar PV + Wind Alternator): Roof-mounted solar PV arrays (clamped directly onto the saddle-locked standing-seam metal roof without penetrating the Hemp OSB membrane) paired with wind-driven alternator harvesting into a 48V DC main battery bus (plus 24V/12V DC auxiliary control buses).
+Multi-Tier Storage Stack:
+Primary Electrochemical Bank (48V LiFePO4): Modular rack-mounted 48V lithium iron phosphate banks scaled in 10 kWh / 20 kWh blocks for daily cycling and high surge inverter output.
+Bidirectional EV / V2H Storage (ISO 15118-20): 60–100 kWh vehicle-to-home/building bidirectional storage buffer for multi-day autonomy and peak commercial/residential load shifting.
+Long-Duration Hydrogen / PEM & Kinetic Vortex Reserve: Surplus solar/wind energy drives the kinetic vortex / piezocatalytic (PVA / BaTiO3) and capacitive/electrolysis water-splitting loop (50 PSI regulated via cyclonic traps and 3Å zeolite drying to 99.97% purity) feeding 2.5 kW to 10+ kW PEM fuel cell stacks for zero-sun backup.
+Fast Transient Buffer (Supercapacitor & Carbon-Concrete EDL): 1.0–10.0 F double-layer supercapacitors paired with 2.5%–3.0% PBk7 carbon-doped concrete structural EDL pads (~10 kWh per 45 m³ pad) to absorb compressor/pump inrush transients.
+Split-Phase 120V/240V & Three-Phase Load Tiers:
+Tier 1 (Critical Life-Safety, Refrigeration, Water/Septic Controls, HVAC Blowers): Powered down to 15% State of Charge (SoC).
+Tier 2 (Dynamic CT-Throttled 6–40A Level 2 EV/V2H & Heat Pump Boost): Engages at ≥ 75% SoC or > 1.5 kW surplus.
+Tier 3 (Overflow Thermal Mass, Shop & Hydrogen Production): Engages at 95%–100% SoC and sheds below 90% SoC.
+C. Parametric Scaling Matrix (Individual • Residential • Commercial)
+Scale Tier
+Footprint & Area
+HVAC Capacity & Airflow (-73.3% Static Drop)
+Solar PV Array
+48V LiFePO4 Storage
+Auxiliary / Long-Duration Reserve
+Individual / Micro-Module
+8 ft × 24 ft (192 sq ft, 0.18×)
+0.75 Ton (300 CFM) inverter heat pump + mini-ERV
+2.4 kW
+10 kWh
+2.5 kW PEM fuel cell + 12V/24V DC bus
+Residential Baseline
+24 ft × 44 ft (1,056 sq ft, 1.00×)
+2.0 Ton (800 CFM) ducted Air Genie + ERV + PEX slab
+6.4 kW
+20 kWh
+5.0 kW PEM + 60–100 kWh V2H EV tie-in
+Large Residential / Multi-Bay
+32 ft × 64 ft (2,048 sq ft, 1.94×)
+3.5 Ton (1,400 CFM) zoned Air Genie + ERV + PEX slab
+12.0 kW
+40 kWh
+5.0–10.0 kW PEM + V2H + 45 m³ EDL pad
+Commercial / Multi-Module
+44 ft × 100 ft+ (4,400+ sq ft, 4.17×+)
+7.5+ Ton (3,000+ CFM) multi-zone Air Genie + DOAS ERV
+25.0+ kW
+80+ kWh
+10+ kW modular PEM + fleet V2B + EDL slab
+
+
+
+5. Hemp Nano-Carbon Crete & Pre-Installed Nano-Copper PEX
+Hemp Nano-Carbon Crete: Integrates hemp-reinforced nano-carbon crete into slab, base, sump/drain enclosure, and composite zones to enhance toughness, crack bridging, radiant hydronic heat transfer, and electrical/EDL distribution.
+Pre-Installed Nano-Copper-Lined PEX: Pre-routed or pre-installed in crete and wall chases prior to finish close-in across 1/2 in CTS (5/8 in / 10/16 in OD in 3/4 in / 12/16 in sleeve), 3/4 in CTS (7/8 in / 14/16 in OD in 1 in / 16/16 in sleeve), and 1 in CTS (1 1/8 in / 18/16 in OD in 1 1/4 in / 20/16 in sleeve), maintaining 1/8 in (2/16 in) movement clearance and ±1/16 in alignment tolerance.
+Pressure Testing & Isolation: Pressure-test all pre-installed runs and stub-ups before casting or closing wall boards; isolate lines with smooth sleeves/grommets against abrasion and thermal/cure movement while preserving vapor-open wall drying.
+
+
+6. Off-Grid Self-Sustainable Septic, Reclamation & Greenhouse Infrastructure
+A. Subgrade Drainage, Sump & French Drain Replacement
+Porous Hemp-Carbon & Geotextile Armor: Pairs porous hemp-carbon filter sheets in geotextile armor with hemp nano-carbon-crete enclosures to replace conventional French drains, lowering groundwater evenly across sloped sites and protecting slabs/crawl spaces while routing captured water to storage/treatment.
+B. Off-Grid Septic Treatment, Sloped Media Channel & Flip-Valve Routing
+Septic & Greywater Separation: Routes blackwater/septic flows through multi-stage anaerobic/biological settling and treatment compliant with local health/sanitation codes, while routing clean/greywater and greenhouse capture streams through staged filtration and reclamation.
+2.00 ft Vertical Drop Channel (15°–30° Grade):
+At 15° Grade: Runway (hypotenuse) = 7.73 ft; horizontal run = 7.46 ft (longer residence/contact time across media layers).
+At 30° Grade: Runway (hypotenuse) = 4.00 ft; horizontal run = 3.46 ft (higher cascade velocity and flush momentum).
+Active Sloped Media Matrix & Flip-Valve: Passes water through layered nano-copper, hemp nanocarbon, black play sand, and crushed limestone into holding/distribution, using a mechanical flip-valve at the base of the drop to separate normal greenhouse/garden feed water from high-pressure flush water.
+C. Pumping, Filtration, Trench Matrix, HDPE Storage & 4-Zone Greenhouse/Garden Irrigation
+Pumping & Power Bus: Driven by off-grid solar/battery/DC bus architectures (12V DC / 48.0 A residential with 60A main fuse; 24V DC / 96.0 A commercial with 115A main fuse; 14 AWG relay and 10 AWG branches on 30A pump / 15A automation THHN direct-burial circuits, or 24V DC magnetic-drive pump and 3 m spiral-finned vertical downspout loop where specified).
+Trench & HDPE Storage Scaling:
+Residential Scale: 18 in × 30 in trench, 1.56 tons #57 aggregate, 2,000-gallon HDPE storage.
+Commercial Scale: 24 in × 42 in trench, 7.26 tons #57 aggregate, 5,000-gallon HDPE storage.
+Greenhouse & 4-Zone Irrigation Schedule: Integrates greenhouse moisture/condensate/runoff capture, thermal buffering, and nutrient/water cycling with subterranean extraction (18 in, 24 in, 33 in center options; 135.0 GPM parallel fluid benchmark; 90% NC auto-diverter sentry limit; 37.63–46.08 ft/s unpowered passive outflow benchmark) feeding:
+Zone 1 (Upper Terrace Drip): 5 min cycle.
+Zone 2 (Footer Dry Zone Swale): 5 min cycle.
+Zone 3 (Deep Root Absorption): 5 min cycle.
+Zone 4 (Mechanical Overflow): Continuous passive overflow routing.
+
+
+7. General Contractor (GC) Accountability
+Across commercial, residential, and individual/owner-builder projects, responsibility for field execution, jobsite layout verification (1/16 in tolerances), saddle-to-metal-roof lock indexing and wind-uplift fastening, hardware mortising and locking, hemp nano-carbon-crete placement, pre-installed nano-copper PEX testing/sleeving, off-grid HVAC/Air Genie duct balancing, solar/battery/inverter/H2 electrical integration, septic/greywater/greenhouse tie-ins, targeted exterior polyurethane sealing, vapor-open rainscreen detailing, and local building/plumbing/electrical/environmental code or engineering compliance rests with the General Contractor (GC).
 Golden Blueprint — Master Compilation for Father (Unified V10 — Cleaned & Organized)
 License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 Distribution & Archiving Mode: Direct Web Archiving & Local/Offline Storage (No GitHub Hosting)
