@@ -1,4 +1,18 @@
-```text
+# Hemp-Carbon Off-Grid Master Infrastructure
+
+Unified off-grid infrastructure specification and verification suite integrating:
+- **Structural Envelope:** 24 ft x 44 ft modular hemp-composite shell (scalable 8'x8' to 44'x100'), Hemp OSB, aluminum-core hemp trusses, 1/16" locking truss saddles, twist-key fasteners, and HempWool insulation.
+- **Thermal & Resistive Benchmarks:** 1.11 K hemp-carbon bondline temperature drop (vs. 16.67 K silicon) and 0.50 K/W diamond spreading resistance (vs. 6.76 K/W silicon).
+- **Energy Storage & Switching:** 96S x 12P golden-ratio (phi = 1.61803399) ferro-copper hexagonal pack (307.2 V, 96.0 Ah, 29,491.2 Wh, 32.0 mOhm) on an Au (+) / Ag (-) bus with 22% SoC main-load cutoff, 28% reconnect hysteresis, and 90% trickle phase-up rail (25.0 W in -> 22.5 W out).
+- **Generation, Water, Gas & HVAC:** Simultaneous solar + wind + submersible brushless hydro-current generation, hexagonal water tower with 3-loop copper/nano hemp-carbon filtration and ambient water harvesting, on-demand hydrogen with v7.8.0-Ar-N2-H2-3He telemetry (0x0F01-0x0F04), and Air Genie HVAC (73.3% static pressure drop reduction).
+
+## Licenses
+- **Hardware & Blueprints:** CERN-OHL-S-2.0 (`LICENSE-HARDWARE.txt`)
+- **Technical Documentation:** CC-BY-SA-4.0 (`LICENSE-DOCS.txt`)
+
+## Run & Verify
+```bash
+python3 src/hemp_carbon_offgrid_master.py{"golden_geometry":{"major_pitch_mm":24.0,"minor_pitch_mm":14.8328,"phi":1.61803399,"resonance_target_hz":432.12,"wall_mm":3.5016},"licenses":{"hardware_and_blueprints":"CERN-OHL-S-2.0","technical_documentation":"CC-BY-SA-4.0"},"manifest_sha256":"e8daf24750599a259b6e52f0edb54485f68b6dca8aa87594cb9020ab24853b5c","pack_specs":{"c_pack_ah":96.0,"e_pack_wh":29491.2,"eta_charge":0.9,"eta_phase":0.9,"parallel_p":12,"r_pack_mohm":32.0,"series_s":96,"soc_cutoff":0.22,"soc_reconnect":0.28,"v_pack":307.2},"registers_3v3_12bit":{"0x0F01":"AIRFLOW_VELOCITY_12BIT_3V3","0x0F02":"FILTER_MONOLAYER_SATURATION_12BIT_3V3","0x0F03":"MHD_LORENTZ_THROTTLE_FREQ_12BIT_3V3","0x0F04":"CONDENSATE_RECOVERY_12BIT_3V3"},"repository_layout":{"LICENSE-DOCS.txt":"CC-BY-SA-4.0 license for technical documentation, manifests, and telemetry specs","LICENSE-HARDWARE.txt":"CERN-OHL-S-2.0 open hardware license for structural, fluidic, thermal, and switching blueprints","README.md":"Master overview, deployment configurations (Options A-D), and GC/engineering sign-off checklist","manifest/release_manifest.json":"Deterministic SHA-256 sealed system state, geometry, pack specs, and license metadata","src/hemp_carbon_offgrid_master.py":"Concurrent Python 3 simulation, telemetry register mapper, and SHA-256 manifest sealer"},"schema":"hemp-carbon-offgrid-github-v1","state":{"adc_0x0f01_airflow":2048,"adc_0x0f02_filter_sat":1365,"adc_0x0f03_mhd_freq":2048,"adc_0x0f04_condensate":2728,"ambient_step_l":0.075,"ambient_water_lph":4.5,"condensate_step_l":0.849,"gas_matrix":"v7.8.0-Ar-N2-H2-3He","hvac_static_drop_reduction_pct":73.3,"main_load_closed":false,"p_delivered":216.0,"p_h2_active":0.0,"p_load_active":0.0,"p_net_storage_w":191.0,"p_phase_loss":2.5,"p_phase_out":22.5,"p_total_in":240.0,"p_trickle_in":25.0,"soc":0.220108,"tick":1},"thermal_metrics":{"diamond_spreading_res_k_per_w":0.5,"hemp_carbon_bond_drop_k":1.11,"si_bondline_temp_drop_k":16.67,"si_spreading_res_k_per_w":6.76},"timestamp_utc":"2026-11-26T22:44:00Z"}```text
 ================================================================================
 MASTER INFRASTRUCTURE BLUEPRINT — GENERAL CONTRACTOR & ENGINEERING HANDOFF
 Schema: master-infrastructure-unified-v1 | Timestamp: 2026-11-26T21:23:00Z
